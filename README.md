@@ -1,6 +1,8 @@
 Unfortunately the packaging org have been deactivated by Salesforce and with it all package versions. Therefore it is not possible to install the package from AppExchange. 
 
-You can try out the new standard Flow Button component https://help.salesforce.com/s/articleView?id=sf.fsc_flow_ref_elements_screencmp_screenbutton.htm&type=5. 
+You can try out the new standard Flow Button component https://help.salesforce.com/s/articleView?id=sf.fsc_flow_ref_elements_screencmp_screenbutton.htm&type=5. If the standard action does not work for you, here is source code to the custom [Flow Navigation Button](https://github.com/Step-Labs-Sf/flow-button).
+
+Without the partner org I don't have access to the AppExchange listing, therefore I am not able to remove it.
 
 -----
 
